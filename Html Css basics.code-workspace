@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "CSS basics"
+		},
+		{
+			"path": "CSS cheat sheet"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS cheat sheet"
+	}
+}
